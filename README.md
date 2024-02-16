@@ -3,18 +3,18 @@
 
 <h2>Features</h2>
 <ul></ul>
-<li><strong>Add Contact:</strong>Enter the name, phone number, and email address to add a new contact.</li>
-<li><strong>Display All Contacts:</strong>View all contacts currently stored in the system.</li>
-<li><strong>Search Contact:</strong>Find a contact by entering their name.</li>
-<li><strong>Delete Contact:</strong>Remove a contact from the system.</li>
-<li><strong>User-Friendly Interface:</strong>The program provides a simple and intuitive interface for users to interact with.</li>
+<li><strong>Add Contact:</strong> Enter the name, phone number, and email address to add a new contact.</li>
+<li><strong>Display All Contacts:</strong> View all contacts currently stored in the system.</li>
+<li><strong>Search Contact:</strong> Find a contact by entering their name.</li>
+<li><strong>Delete Contact:</strong> Remove a contact from the system.</li>
+<li><strong>User-Friendly Interface:</strong> The program provides a simple and intuitive interface for users to interact with.</li>
 </ul>
 <h2>Instructions</h2>
 <ol>
-<li>Run the Program: Execute the contact_management_system.py file to start the application.</li>
-<li>Main Menu: Upon running the program, you will see a main menu displaying options to add, display, search, or delete contacts, as well as an option to exit the program.</li>
-<li>Enter Details: Follow the prompts to add, search for, or delete contacts. Enter the necessary details such as name, phone number, or email address as requested.</li>
-<li>View Results: Any relevant information, such as contact details or success/failure messages, will be displayed according to the actions performed.</li>
+<li><strong>Run the Program:</strong> Execute the contact_management_system.py file to start the application.</li>
+<li><strong>Main Menu:</strong> Upon running the program, you will see a main menu displaying options to add, display, search, or delete contacts, as well as an option to exit the program.</li>
+<li><strong>Enter Details:</strong> Follow the prompts to add, search for, or delete contacts. Enter the necessary details such as name, phone number, or email address as requested.</li>
+<li><strong>View Results:</strong> Any relevant information, such as contact details or success/failure messages, will be displayed according to the actions performed.</li>
 </ol>
 
 <h2>Requirements</h2>
